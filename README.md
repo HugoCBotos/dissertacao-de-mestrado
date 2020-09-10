@@ -8,4 +8,4 @@ Os tópicos cobertos são os seguintes: Introduzo espaços vetoriais topológico
 
 *BERGAMASCO, A. P.; PETRONILHO, G. Global solvability of a class of involutive systems.Journal of mathematical analysis and applications, v. 233, n. 1, p. 314–327, 1999.*
 
-*BERGAMASCO, A. P.; CORDARO, P. D.; MALAGUTTI, P. A. Globally hypoelliptic systemsof vector fields.Journal of functional analysis, v. 114, n. 2, p. 267–285, 1993. *
+*BERGAMASCO, A. P.; CORDARO, P. D.; MALAGUTTI, P. A. Globally hypoelliptic systemsof vector fields.Journal of functional analysis, v. 114, n. 2, p. 267–285, 1993.*
