@@ -1,6 +1,6 @@
 # dissertacao-de-mestrado
 
-Minhas dissertação de mestrado em edp linear. Pode ser encontrada no repositório da usp:
+Minha dissertação de mestrado foi em edp linear. Pode ser encontrada no repositório da usp:
 
 https://teses.usp.br/teses/disponiveis/55/55135/tde-25102018-112308/pt-br.php
 
